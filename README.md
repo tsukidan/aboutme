@@ -3,7 +3,7 @@
  
 <a href="https://www.linkedin.com/in/angel-navarro-0b3b6a214/"><img alt="LinkedIn" src="https://img.shields.io/badge/Daniel Navarro-A8C1E9?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/tsukidan_"><img alt="Twitter" src="https://img.shields.io/badge/@tsukidan_-A8C1E9?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="mailto:tsukidan@proton.me"><img alt="Email" src="https://img.shields.io/badge/tsukidan@proton.me-A8C1E9?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:dan_nvrro@pm.me"><img alt="Email" src="https://img.shields.io/badge/dan_nvrro@pm.me-A8C1E9?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ---
 
@@ -103,6 +103,7 @@
 ---
 
 ## 🧠 Languages & Tools
+<img src="https://komarev.com/ghpvc/?username=tsukidan&style=for-the-badge&color=A8C1E9">
 <img align="left" alt="React" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 <img align="left" alt="HTML5" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 <img align="left" alt="CSS3" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
